@@ -1,5 +1,7 @@
 # Test-Backend-Developer-Intern
 Author: Nguyen Duy Minh  
+Task 1 JavaScript  
+Task 2 Backend  
 Search engine with Express and Reactjs  
 
 require:Node.js 14.x, newest Express version, newest Reactjs version  
