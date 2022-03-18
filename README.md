@@ -1,8 +1,8 @@
 # Test-Backend-Developer-Intern
-Author: Nguyen Duy Minh
-Search engine with Express and Reactjs
+Author: Nguyen Duy Minh  
+Search engine with Express and Reactjs  
 
-require:Node.js 14.x, newest Express version, newest Reactjs version
+require:Node.js 14.x, newest Express version, newest Reactjs version  
 
 -  Deploy:
 Backend:
@@ -11,7 +11,7 @@ Backend:
 	+ After installation, in backend folder, run:
 	node app.js
 	+ locate to http://localhost:4000/  to see if it was successfull.
-Frontend: 
+- Frontend: 
 	+ Open a terminal in frontend folder and run: npm i 
 	+ After installation, in frontend folder, run: npm start
 	+ locate to http://localhost:3000/  to see if it was successfull.
